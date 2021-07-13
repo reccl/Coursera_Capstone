@@ -1,4 +1,0 @@
-
-data section
-
-the study will be done using the foursquare api to map tourist attractions in the biggest cities in Brazil
